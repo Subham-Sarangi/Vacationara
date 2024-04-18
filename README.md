@@ -11,6 +11,8 @@
 <img align="right" alt="Coding" width="200" src="https://img.freepik.com/free-vector/vacation-time-summer-icon-white-background_1308-109560.jpg?size=626&ext=jpg&ga=GA1.1.1395880969.1709424000&semt=ais">
 <p>Vacationora revolutionizes the travel industry as a pioneering trip advisory platform, harnessing the boundless potential of the metaverse to elevate user experiences. Seamlessly integrating cutting-edge technology, Vacationora empowers travelers with a comprehensive solution for planning and booking every aspect of their journey. From transportation to accommodations and activities, all facets of travel are effortlessly organized within a unified platform. Central to Vacationora's mission is the delivery of personalized travel plans, meticulously tailored to match individual interests, budgets, and preferences, ensuring each user embarks on a uniquely fulfilling adventure.</p>
 
+<h3>Please find the video for more detailed walkthrough.</h3>
+
 <h2>Stakeholders:</h2>
 <ul>
   <li><strong>Travelers:</strong> 🧳 Individuals seeking travel advice and services.</li>
