@@ -48,9 +48,6 @@
 <h2>Prototype Webpage and Customer Journey:</h2>
 <p>A prototype webpage will be developed to showcase Vacationora's features and user interface. Additionally, a detailed customer journey map will outline the user experience from initial interaction to booking completion, ensuring a seamless and intuitive process.</p>
 
-<img src="placeholder_for_banner_image.jpg" alt="Placeholder for Banner Image">
-<video src="placeholder_for_video.mp4" controls>Placeholder for Video</video>
-
 <h2>Triggers:</h2>
 <ul>
   <li><strong>Message on Insert:</strong> 📩 Notification triggered upon insertion of new data.</li>
