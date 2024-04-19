@@ -1,4 +1,5 @@
-![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)
+https://github.com/Subham-Sarangi/Vacationara/assets/56386795/fa29e3e5-186d-431a-8071-72a891181cc5
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -12,6 +13,10 @@
 <p>Vacationora revolutionizes the travel industry as a pioneering trip advisory platform, harnessing the boundless potential of the metaverse to elevate user experiences. Seamlessly integrating cutting-edge technology, Vacationora empowers travelers with a comprehensive solution for planning and booking every aspect of their journey. From transportation to accommodations and activities, all facets of travel are effortlessly organized within a unified platform. Central to Vacationora's mission is the delivery of personalized travel plans, meticulously tailored to match individual interests, budgets, and preferences, ensuring each user embarks on a uniquely fulfilling adventure.</p>
 
 <h3>Please find the video for more detailed walkthrough.</h3>
+<video width="320" height="240" controls>
+  <source src="https://github.com/Subham-Sarangi/Vacationara/assets/56386795/457b33df-7523-41a8-a002-a74a220e2acc" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 <h2>Stakeholders:</h2>
 <ul>
@@ -62,6 +67,3 @@
 
 </body>
 </html>
-```
-
-This HTML code should be understandable by README.md, allowing you to include images, videos, and styled text to make your README more attractive.
